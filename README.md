@@ -22,8 +22,8 @@ Saya senang mengeksplorasi hal-hal baru, berpikir kreatif, dan membangun sesuatu
 Halaman portofolio seperti Linktree yang berisi tautan ke proyek, sosial media, dan kontak saya.
 
 - 🌐 [Lihat Portofolio](https://hatsuue.github.io/Adiatma-wasara/)
-- 🌐 [Lihat Portofolio](https://hatsuue.github.io/PDFME/)
-
+- 🌐 [Lihat PDFME](https://hatsuue.github.io/PDFME/)
+  > _"PDFME Belum Jalan Karena masih dalam Poject."_
 ---
 
 ## 3D Project Sketchup
