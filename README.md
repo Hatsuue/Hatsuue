@@ -42,7 +42,7 @@ _Klik gambar untuk mendengarkan di YouTube_
 
 ### 📈 Aktivitas GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hatsuue&show_icons=true&theme=dracula&count_private=true)](https://github.com/Hatsuue/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hatsuue&show_icons=true&theme=dracula&count_private=true)](https://github.com/Hatsuue)
 
 ---
 
