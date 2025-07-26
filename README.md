@@ -18,11 +18,11 @@ Saya senang mengeksplorasi hal-hal baru, berpikir kreatif, dan membangun sesuatu
 
 > Saya sedang membangun dan mengembangkan berbagai proyek kecil sebagai latihan dan portfolio:
 
-#### 🔗 **Portofolio Web Sederhana**
-Halaman portofolio seperti Linktree yang berisi tautan ke proyek, sosial media, dan kontak saya.
+#### Portofolio Web Sederhana
+Halaman portofolio yang berisi tautan ke proyek, sosial media, dan kontak saya.
 
-- 🌐 [Lihat Portofolio](https://hatsuue.github.io/Adiatma-wasara/)
-- 🌐 [Lihat PDFME](https://hatsuue.github.io/PDFME/)
+-  [Lihat Portofolio]([https://hatsuue.github.io/Adiatma-wasara/](https://hatsuue.github.io/Portofolio-Adiatma/#hero))
+-  [Lihat PDFME](https://hatsuue.github.io/PDFME/)
   > _"PDFME Belum Jalan Karena masih dalam Poject."_
 ---
 
