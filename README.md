@@ -21,7 +21,7 @@ Saya senang mengeksplorasi hal-hal baru, berpikir kreatif, dan membangun sesuatu
 #### Portofolio Web Sederhana
 Halaman portofolio yang berisi tautan ke proyek, sosial media, dan kontak saya.
 
--  [Lihat Portofolio]([https://hatsuue.github.io/Adiatma-wasara/](https://hatsuue.github.io/Portofolio-Adiatma/#hero))
+-  [Lihat Portofolio]([https://hatsuue.github.io/Portofolio-Adiatma/#hero])
 -  [Lihat PDFME](https://hatsuue.github.io/PDFME/)
   > _"PDFME Belum Jalan Karena masih dalam Poject."_
 ---
