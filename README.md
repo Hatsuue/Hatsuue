@@ -1,69 +1,57 @@
-# 👋 Halo, saya Adiatma Wasara
+<h2 align="left">Hi 👋! My name is Adiatma W and I'm a Front end from Indo</h2>
 
-Saya adalah mahasiswa **Teknik Informatika** yang sedang bertransisi dari dunia kerja ke dunia teknologi.  
-Sebelumnya, saya memiliki pengalaman sebagai **staf pelaksana, admin logistik, kurir, dan desainer**, yang telah membentuk kemampuan saya dalam bekerja secara mandiri maupun dalam tim.
+###
 
-Saat ini, saya sedang fokus mempelajari pengembangan web, pemrograman, dan desain UI/UX.  
-Saya senang mengeksplorasi hal-hal baru, berpikir kreatif, dan membangun sesuatu yang bermanfaat. GitHub ini saya gunakan sebagai dokumentasi perjalanan dan pertumbuhan saya di dunia teknologi.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hatsuue&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatsuue&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 💻 Teknologi & Alat yang Sedang Saya Pelajari
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lseWhsa2wzdXVneXFib3FoYW9tY2hsY3lidzZ1YzR1aTQzOGRrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif"  />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,figma,github,vscode,python,sketchup)](https://skillicons.dev)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+</div>
 
-### 🚧 Proyek Awal Saya
+###
 
-> Saya sedang membangun dan mengembangkan berbagai proyek kecil sebagai latihan dan portfolio:
+<div align="left">
+  <a href="https://www.youtube.com/@Hatsuu47/shorts" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/adiatma9_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="wasaraadyatma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/adiatma-wasara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-#### Portofolio Web Sederhana
-Halaman portofolio yang berisi tautan ke proyek, sosial media, dan kontak saya.
+###
 
--  [Lihat Portofolio](https://hatsuue.github.io/Portofolio-Adiatma/#hero)
--  [Lihat PDFME](https://hatsuue.github.io/PDFME/)
-  > _"PDFME Belum Jalan Karena masih dalam Poject."_
----
+<br clear="both">
 
-## 3D Project Sketchup
-- 🔷 [Lihat Karya Saya](https://3dwarehouse.sketchup.com/by/Adyatmawasara)
+<img src="https://raw.githubusercontent.com/Hatsuue/Hatsuue/output/snake.svg" alt="Snake animation" />
 
----
-
-### 🎶 Musik Favorit Saat Ngoding
-
-Saya suka mendengarkan musik lo-fi agar tetap fokus saat belajar atau ngoding.
-
-[![Lo-fi Beats](https://img.youtube.com/vi/jfKfPfyJRdk/hqdefault.jpg)](https://www.youtube.com/watch?v=jfKfPfyJRdk)  
-_Klik gambar untuk mendengarkan di YouTube_
-
----
-
-### 📈 Aktivitas GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hatsuue&show_icons=true&theme=dracula&count_private=true)](https://github.com/Hatsuue)
-
----
-
-### 📬 Mari Terhubung
-
-Saya terbuka untuk berkolaborasi, belajar bersama, atau sekadar berbagi semangat belajar!
-
-- Linkedln [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adiatma-wasara/)
-- My Portofolio [![Portfolio](https://skillicons.dev/icons?i=webflow)](https://hatsuue.github.io/Adiatma-wasara/)
-- Click Icon [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:wasaraadyatma@gmail.com)
-
-
----
-
-## My Media Sosial
-### 🌐 Media Sosial
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adiatma-wasara/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/adiatma9_/)
-
----
-
-
-> _"Saya percaya bahwa setiap langkah kecil yang konsisten akan membawa saya pada perubahan besar."_ 🚀
+###
